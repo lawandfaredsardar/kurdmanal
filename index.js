@@ -29,4 +29,4 @@ client.on('message', async message => {
   }
 });
 
-client.login(token);
+client.login("NzY1OTk0NzQ4Nzc1MTA0NTcz.X4c6Mw.YOk6uw4DcLtWUB--0ZuyL1F_ve0");
